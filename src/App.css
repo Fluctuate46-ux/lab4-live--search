@@ -247,3 +247,7 @@ body {
     width: 100%;
   }
 }
+
+.store-header h1 {
+  color: #14532d;
+}
